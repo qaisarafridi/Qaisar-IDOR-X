@@ -1,5 +1,5 @@
 
-### 👤 Author: [Qaisar Afridi](https://github.com/yourusername)  
+### 👤 Author: [Qaisar Afridi](https://linkedin.com/in/qaisar51)  
 **Qaisar-IDOR-X** is a smart Python3 tool for automated testing of **Insecure Direct Object Reference (IDOR)** vulnerabilities.  
 It crawls target websites, identifies URL parameters, and fuzzes them with different values to detect potential IDOR issues while filtering false positives intelligently.
 
